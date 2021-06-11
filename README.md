@@ -1,2 +1,2 @@
 # ColorCity
-View LIVE https://confident-kare-8730fd.netlify.app/
+ [![View LIve](https://colorcity.netlify.app/)
