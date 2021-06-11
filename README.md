@@ -1,2 +1,2 @@
 # ColorCity
- [![View LIve](https://colorcity.netlify.app/)
+[Live Preview][https://colorcity.netlify.app/]
